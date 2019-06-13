@@ -1,3 +1,3 @@
-n,m=map(int,input().split())
+a,b=map(int,input().split())
 x=list(map(int,input().split()))
-print((m*(m+1)//2)
+print((b*(b+1)//2))
